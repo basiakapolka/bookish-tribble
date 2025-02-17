@@ -3,7 +3,7 @@
 
   "featured": [
     "https://api.dc.library.northwestern.edu/api/v2/works/4b2697a0-d04d-4a07-a40a-42d560c36fc5?as=iiif",
-    "https://api.dc.library.northwestern.edu/api/v2/works/4b2697a0-d04d-4a07-a40a-42d560c36fc5?as=iiif"
+    "https://dc.library.northwestern.edu/items/72b808cd-3d69-4dc6-be93-841fc9178164"
   ],
   "metadata": ["Date", "Subject", "Genre", "Publisher"],
   "label": { "none": ["Wacky Menus"] },
