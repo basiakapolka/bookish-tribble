@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://basiakapolka.github.io/bookish-tribble
+
+# Sitemaps
+Sitemap: https://basiakapolka.github.io/bookish-tribble/sitemap.xml
