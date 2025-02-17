@@ -1,0 +1,20 @@
+{
+  "collection": "hhttps://api.dc.library.northwestern.edu/api/v2/collections/d3a8e587-cc58-4cb0-aea2-65465d42ec3e?as=iiif&size=100 ",
+
+  "featured": [
+    "https://api.dc.library.northwestern.edu/api/v2/works/906615ba-5a34-496d-9b6b-1ad773ac920d?as=iiif",
+    "https://api.dc.library.northwestern.edu/api/v2/works/4b2697a0-d04d-4a07-a40a-42d560c36fc5?as=iiif"
+  ],
+  "metadata": ["Date", "Subject", "Genre", "Publisher"],
+  "label": { "none": ["Wacky Menus"] },
+  "summary": {
+    "none": ["This is a test site. Pay no attention."]
+  },
+  "theme": {
+    "defaultTheme": "light",
+    "accentColor": "red",
+    "grayColor": "mauve",
+    "radius": "small",
+    "scaling": "100%"
+  }
+}
